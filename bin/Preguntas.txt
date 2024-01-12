@@ -1,0 +1,12 @@
+¿Cómo debe ser el archivo MasterFile? (Dadas las especificaciones que se encuentran del RFC)
+¿El MasterFile debe ser diferente para IPv4 que para IPv6?
+¿Cómo se realiza la implementación de hilos dentro del programa?
+¿El único mecanismo de persistencia a utilizar son archivos de texto o se pueden utilizar bases de datos?
+¿Al comenzar el server es recomendable cargar todos los archivos al manejador?
+¿Es necesario hacer el requerimiento de pedir asignar un dominio a partir de una ip en el DNS?
+¿Cómo se realiza NAT con IPV6?
+Importante: ¿También hay que preguntar por el nombre dada la dirección? ¿Cómo se realiza con las VPCs de GNS3? (Se ve en la respuesta del tipo RR)
+
+Implementar de Runable
+
+
